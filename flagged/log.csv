@@ -3,3 +3,6 @@ hello,0,,,,2024-04-24 13:32:05.051139
 Susan,3,"Hello, Susan!!!",,,2024-04-24 13:32:59.787860
 Antonio,30,"Hello, Antonio!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",,,2024-04-24 13:34:31.386473
 manuel,Hello manuel!,,,2024-04-24 13:38:47.995847
+flagged/inp/6c09c7cd2ba750b80bea/descarga.jfif,"{""label"": null, ""confidences"": null}",,,2024-04-24 14:00:50.245811
+flagged/inp/13bbd895a3784184f83e/descarga.jfif,"{""label"": ""dog"", ""confidences"": [{""label"": ""dog"", ""confidence"": 0.7}, {""label"": ""cat"", ""confidence"": 0.3}]}",,,2024-04-24 14:00:55.165556
+Lola,true,25,Good morning Lola. It is 25 degrees today,'-3.89,,,2024-04-24 14:03:14.227375
